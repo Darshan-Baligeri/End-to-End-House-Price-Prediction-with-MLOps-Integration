@@ -1,3 +1,5 @@
+---
+
 # House Price Prediction Model with MLOps Integration
 
 ## Project Overview
@@ -6,6 +8,8 @@ The **House Price Prediction Model** is an advanced machine learning project tha
 The project includes comprehensive **Exploratory Data Analysis (EDA)**, feature engineering, and model building pipelines. It also implements best practices in machine learning, such as model validation, hyperparameter tuning, and handling of missing data and outliers.
 
 By incorporating MLOps, the project ensures continuous model monitoring, deployment automation, and streamlined collaboration across teams.
+
+> **Note**: This project works best with Python 3.9. Compatibility with other versions may require adjustments.
 
 ## Project Structure
 ```
@@ -157,4 +161,5 @@ With this setup, you can easily extend the project to other prediction tasks and
 
 ---
 
-**Note:** Make sure your environment is configured with the necessary permissions for ZenML and MLflow to function correctly.
+**Note**: Make sure your environment is configured with the necessary permissions for ZenML and MLflow to function correctly.
+
