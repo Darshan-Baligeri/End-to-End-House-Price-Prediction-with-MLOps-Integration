@@ -9,8 +9,6 @@ The project includes comprehensive **Exploratory Data Analysis (EDA)**, feature 
 
 By incorporating MLOps, the project ensures continuous model monitoring, deployment automation, and streamlined collaboration across teams.
 
-> **Note**: This project works best with Python 3.9. Compatibility with other versions may require adjustments.
-
 ## Project Structure
 ```
 prices-predictor-system
@@ -161,5 +159,4 @@ With this setup, you can easily extend the project to other prediction tasks and
 
 ---
 
-**Note**: Make sure your environment is configured with the necessary permissions for ZenML and MLflow to function correctly.
-
+**Note:** Make sure your environment is configured with the necessary permissions for ZenML and MLflow to function correctly.
