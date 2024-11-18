@@ -1,4 +1,3 @@
-@@ -0,0 +1,160 @@
 # House Price Prediction Model with MLOps Integration
 ## Project Overview
 The **House Price Prediction Model** is an advanced machine learning project that leverages cutting-edge MLOps practices and powerful ML tools to predict house prices. This system integrates ZenML and MLflow for pipeline orchestration, experiment tracking, and model deployment. We follow industry-standard practices such as modular code design, model versioning, and automated pipelines to ensure reproducibility and scalability.
